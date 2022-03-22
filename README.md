@@ -12,7 +12,6 @@ Hack Cameras
 
 * pip install -r requirements.txt
 
-* cd Cam-Hackers
+* cd LiveCamHack-By-CP
 
 * python3 LcH.py
-
